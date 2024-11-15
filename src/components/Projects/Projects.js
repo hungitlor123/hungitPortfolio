@@ -34,8 +34,8 @@ function Projects() {
               imgPath={Portfolio}
               title="Portfolio Website"
               description="My personal Portfolio Website build with React and Bootstrap. It is fully responsive website which supports both dark and light mode."
-              ghLink="#"
-              demoLink="#"
+              ghLink="https://github.com/hungitlor123/hungitPortfolio"
+              demoLink="hungit-portfolio.vercel.app"
             />
           </Col>
           <Col md={6} lg={4} className="project-card">

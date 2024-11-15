@@ -95,11 +95,11 @@ function NavBar() {
             </Nav.Item>
             <Nav.Item>
               <Nav.Link
-                href="https://www.facebook.com/HungHipz/"
+                href="https://www.topcv.vn/xem-cv/VlUBV1JQBAgLV1QEU1AKAVddA1wOU1QHWVkOAQa718"
                 target="_blank"
                 rel="noreferrer"
               >
-                Blogs
+                Resume
               </Nav.Link>
             </Nav.Item>
           </Nav>
