@@ -94,11 +94,7 @@ function NavBar() {
               </Nav.Link>
             </Nav.Item>
             <Nav.Item>
-              <Nav.Link
-                href="https://www.topcv.vn/xem-cv/VlUBV1JQBAgLV1QEU1AKAVddA1wOU1QHWVkOAQa718"
-                target="_blank"
-                rel="noreferrer"
-              >
+              <Nav.Link href="/cv.pdf" target="_blank" rel="noreferrer">
                 Resume
               </Nav.Link>
             </Nav.Item>

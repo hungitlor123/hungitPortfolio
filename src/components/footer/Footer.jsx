@@ -21,7 +21,7 @@ function Footer() {
               <a
                 style={{ color: `var(--clr-primary)` }}
                 className="github"
-                href="https://github.com/Rahuljha4171"
+                href="https://github.com/hungitlor123"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="github"
