@@ -45,7 +45,7 @@ function Footer() {
               <a
                 style={{ color: `var(--clr-primary)` }}
                 className="facebook"
-                href="https://www.facebook.com/HungHipz/"
+                href="https://www.facebook.com/hungitlor123/"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="facebook"
@@ -57,7 +57,7 @@ function Footer() {
               <a
                 style={{ color: `var(--clr-primary)` }}
                 className="instagram"
-                href="https://www.instagram.com/hung_hipz/"
+                href="https://www.instagram.com/hungitlor123/"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="instagram"

@@ -6,7 +6,8 @@ import ProjectCard from "./ProjectCards";
 import HairSalon from "../../Assets/Projects/hairsalonFE.png";
 import Portfolio from "../../Assets/Projects/Portfolio.jpg";
 import Mommilk from "../../Assets/Projects/Mommilk.png";
-import Billiards from "../../Assets/Projects/images.jpg";
+import Quizlingo from "../../Assets/Projects/quizlingo.png";
+import EVCare from "../../Assets/Projects/evcare.png";
 
 import "./project.css";
 
@@ -50,11 +51,20 @@ function Projects() {
 
           <Col md={6} lg={4} className="project-card">
             <ProjectCard
-              imgPath={Billiards}
-              title="BilliardsManagement Back-End Project"
-              description="This is a project for managing billiards. The project is built using C#, Entity Framework. I am coding this project. The project is still in the process of completion."
-              ghLink="#"
-              demoLink="https://github.com/hungitlor123/BilliardsFB88_BE_ProMax"
+              imgPath={Quizlingo}
+              title="QuizLingo Front-end Project"
+              description="This is a project for managing quizzes. The project is built using NodeJs, ReactJs, MongoDB and using AntDesign UI .The project is deployed on Netlify and Render."
+              ghLink="https://quizlingo.netlify.app/"
+              demoLink="https://github.com/devbaoo/FE_Quizlingo"
+            />
+          </Col>
+          <Col md={6} lg={4} className="project-card">
+            <ProjectCard
+              imgPath={EVCare}
+              title="EVCare Front-End Project"
+              description="This is an electric vehicle inspection scheduling project. The project is built using NodeJs, ReactJs, MongoDB and AntDesign UI. The project is deployed on Netlify and has a domain name."
+              ghLink="https://evcare.systems/"
+              demoLink="https://github.com/devbaoo/WDP301-EVCare-FE"
             />
           </Col>
         </Row>
