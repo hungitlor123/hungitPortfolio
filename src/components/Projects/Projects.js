@@ -54,8 +54,8 @@ function Projects() {
               imgPath={Quizlingo}
               title="QuizLingo Front-end Project"
               description="This is a project for managing quizzes. The project is built using NodeJs, ReactJs, MongoDB and using AntDesign UI .The project is deployed on Netlify and Render."
-              ghLink="https://quizlingo.netlify.app/"
-              demoLink="https://github.com/devbaoo/FE_Quizlingo"
+              ghLink="https://github.com/devbaoo/FE_Quizlingo"
+              demoLink="https://quizlingo.netlify.app/"
             />
           </Col>
           <Col md={6} lg={4} className="project-card">
@@ -63,8 +63,8 @@ function Projects() {
               imgPath={EVCare}
               title="EVCare Front-End Project"
               description="This is an electric vehicle inspection scheduling project. The project is built using NodeJs, ReactJs, MongoDB and AntDesign UI. The project is deployed on Netlify and has a domain name."
-              ghLink="https://evcare.systems/"
-              demoLink="https://github.com/devbaoo/WDP301-EVCare-FE"
+              ghLink="https://github.com/devbaoo/WDP301-EVCare-FE"
+              demoLink="https://evcare.systems/"
             />
           </Col>
         </Row>
